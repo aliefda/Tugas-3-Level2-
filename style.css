@@ -1,0 +1,92 @@
+body, 
+html{
+    height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.view{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+
+.container-fluid{
+    background: rgba(42, 38, 61, 0.82);
+    height: 100%;
+}
+
+.icon{
+    width: 165px;
+    height: 165px;
+    padding-top: 50px;
+}
+
+.txt{
+    font-family: 'Pacifio', cursive;
+}
+
+.txt1{
+    font-style: normal;
+    font-weight: normal;
+    line-height: 84px;
+    font-size: 48px;
+    color: white;
+}
+
+.txt2{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    color: #FCB371;
+}
+
+.txt3{
+    font-style: 'sf pro display';
+    font-size: 14px;
+    color: white;
+    line-height: 17px;
+}
+
+.button{
+    text-align: center;
+}
+
+.but1{
+    font-family: 'Pacifio', cursive;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 21px;
+    width: 156px;
+    height: 46px;
+    left: 477px;
+    top: 481px;
+    background: none;
+    border: 2px solid #FCB371;
+    box-sizing: border-box;
+    border-radius: 6px;
+    text-align: center;
+    color: #FCB371;
+}
+
+.but2{
+    font-family: 'Pacifio', cursive;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 21px;
+    width: 156px;
+    height: 46px;
+    left: 477px;
+    top: 481px;
+    background: #FCB371;
+    border-radius: 6px;
+    border: 2px solid #FCB371;
+    text-align: center;
+    color: white;
+}
